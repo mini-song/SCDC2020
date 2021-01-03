@@ -34,10 +34,6 @@ df=df.replace('오픈마켓/소셜',8)
 df=df.replace('전문몰',9)
 print(df)
 
-
-
-
-
 # +
 
 
@@ -63,19 +59,11 @@ else:
     rc('font', family='AppleGothic')
 
 # -
-
-
-
-# +
 plt.barh(range(len(imp)), imp) 
 #plt.yticks(range(len(imp)), list(df.columns.array)) 
-
 plt.show()
-# -
 
 a=imp.tolist()
-
-print(a)
 
 for i in range(0,len(a)):
     if a[i]>0.05:
