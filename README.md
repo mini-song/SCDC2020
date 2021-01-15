@@ -1,7 +1,7 @@
 # SCDC2020
 삼성카드데이터분석 공모전 SCDC2020
 Track 1
-- <[프로젝트 향후 진행방향](/.SCDC 2020.pdf)>
+[프로젝트 향후 진행방향](SCDC 2020.pdf, "프로젝트 link")
 [Google](https://google.com, "google link")
 - 변수가 227개 존재, binary 변수 // 정규화된 변수들이 존재
 - 각 변수들은 어떤 정보인지 블라인드 처리되어 있다.
